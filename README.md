@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Akash
+- 👀 I’m interested in technologies
+- 🌱 I’m currently learning Backend Technologies
